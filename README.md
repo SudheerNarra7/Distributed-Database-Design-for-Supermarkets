@@ -1,7 +1,3 @@
-Below is an updated **README.md** file that includes details about functional requirements, non-functional requirements, and architecture. You can copy and paste it into your GitHub repository.
-
----
-
 # Distributed Database Design for Supermarkets
 
 A simple, scalable system design for managing checkout operations at supermarkets. The design is based on real-world assumptions and a sample dataset from GitHub.
